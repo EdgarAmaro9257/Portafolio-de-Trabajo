@@ -1,5 +1,4 @@
-# Portafolio-de-Trabajo
-# Portafolio de Trabajo - [Tu Nombre]
+# Portafolio de Trabajo - Edgar Amaro Cantoral
 
 ## Acerca de Mí
 
@@ -14,13 +13,7 @@ Este repositorio es una colección de algunos de los proyectos de programación 
 - **Lenguajes de Programación**: HTML, CSS, Python, Java, C++, Javascript
 - **DevOps**: Docker, Github, Git, Slack, Jenkins, Kubernetes
 
-## Contacto
-
-Si estás interesado en colaborar o tienes alguna pregunta, no dudes en contactarme a través de edgar.cantoral@yahoo.com
-
----
-
-Soy capaz de realizar cualquier trabajo relacionado con la ingeniería en computación, desde el desarrollo de software hasta la implementación de soluciones tecnológicas complejas. Siempre estoy en busca de nuevos desafíos y oportunidades para aprender y crecer profesionalmente.
+Soy capaz de realizar cualquier trabajo relacionado con la ingeniería en computación. Siempre estoy en busca de nuevos desafíos y oportunidades para aprender y crecer profesionalmente.
 
 ¡Gracias por visitar mi portafolio!
 
